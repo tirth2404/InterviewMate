@@ -13,7 +13,7 @@ import {
   BookOpen,
   TrendingUp
 } from "lucide-react";
-import heroImage from "@/assets/hero-image.jpg";
+import heroImage from "@/assets/image.svg";
 
 const Index = () => {
   return (
@@ -53,7 +53,7 @@ const Index = () => {
               <img
                 src={heroImage}
                 alt="Professional Interview Preparation"
-                className="w-full h-auto rounded-lg shadow-elegant"
+                className="w-3/4 h-auto rounded-lg shadow-elegant mx-auto"
               />
             </div>
           </div>
