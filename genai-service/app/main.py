@@ -1,7 +1,4 @@
-# FastAPI entry point
-from fastapi import FastAPI
+# Entry point of FastAPI.
+# Creates FastAPI instance, includes routes, runs server.
+# Minimal logic here → just wiring.
 
-app = FastAPI()
-
-# Import and include routers here
-# ...
